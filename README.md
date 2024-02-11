@@ -14,3 +14,6 @@
 10. OpSys -String- Operating System
 11. Weight -String- Laptop Weight
 12. Price_euros -Numeric- Price (Euro) #
+
+
+!Warning! if data.corr() not working try : data.corr(numeric_only=True)
